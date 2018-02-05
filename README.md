@@ -1,3 +1,3 @@
 # ProyectoLLMM Febrero
 
-# Hecho por Iván Román y Lázaro Cuenca
+# Hecho por Iván Román y Lázaro Cuenca (https://github.com/cuencaLZ)
